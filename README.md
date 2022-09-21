@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi 👋 Welcome to My Github Page !✨
+#### Discord Channel：https://discord.gg/nAjmbWNKsV
+#### Group Facebook: https://www.facebook.com/groups/csga.ios
+#### [↑ Expire on 2999.05.19]
+
+[![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/CSGA-iOS)](https://github.com/CSGA-iOS)
+![](https://visitor-badge.glitch.me/badge?page_id=csga-ios.csga-ios)  
 
 <!--
 **CSGA-iOS/CSGA-iOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
