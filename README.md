@@ -13,7 +13,7 @@
 [![Github Badge](https://img.shields.io/badge/-Youtube-232323?style=flat-square&logo=Youtube&logoColor=red&link=https://www.youtube.com/@iap-plec)](https://www.youtube.com/@iap-plec)
 [![Github Badge](https://img.shields.io/badge/-Discord-232323?style=flat-square&logo=Discord&logoColor=white&link=https://discord.gg/nAjmbWNKsV)](https://discord.gg/nAjmbWNKsV)
 ![](https://visitor-badge.glitch.me/badge?page_id=csga-ios.visitor-badge)  
-
+---
 <!--
 **iAppleC/iAppleC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
