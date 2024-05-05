@@ -1,6 +1,14 @@
-### Hi 👋 Welcome to My Github Page !✨
-#### [↑ Expire on 2999.05.19]
+<a href="https://github.com/VirgilClyne#gh-light-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api?username=iAppleC&show_icons=true&hide_border=true&icon_color=586069&title_color=60696f&include_all_commits=true&hide_title=true" align="right" alt="iAppleC GitHub stats" />
+</a>
 
+<a href="https://github.com/VirgilClyne#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api?username=iAppleC&show_icons=true&hide_border=true&icon_color=60696f&title_color=8d939d&include_all_commits=true&hide_title=true&bg_color=21262d&text_color=8d939d" align="right" alt="iAppleC GitHub stats" />
+</a>
+
+### Hi there 👋, I am [iApple Cheats](https://iapplec.com/)
+#### [↑ Expire on 2999.05.19]
+---
 [![Github Badge](https://img.shields.io/badge/-Website-232323?style=flat-square&logo=Apple&logoColor=white&link=https://iapplec.com/)](https://iapplec.com/)
 [![Github Badge](https://img.shields.io/badge/-Youtube-232323?style=flat-square&logo=Youtube&logoColor=red&link=https://www.youtube.com/@iap-plec)](https://www.youtube.com/@iap-plec)
 [![Github Badge](https://img.shields.io/badge/-Discord-232323?style=flat-square&logo=Discord&logoColor=white&link=https://discord.gg/nAjmbWNKsV)](https://discord.gg/nAjmbWNKsV)
