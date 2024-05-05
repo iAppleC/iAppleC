@@ -1,13 +1,13 @@
 ### Hi 👋 Welcome to My Github Page !✨
 #### [↑ Expire on 2999.05.19]
 
-[![Github Badge](https://img.shields.io/badge/-Website-232323?style=flat-square&logo=Apple&logoColor=white&link=https://csga.tk)](https://csga.tk)
-[![Github Badge](https://img.shields.io/badge/-Facebook-232323?style=flat-square&logo=Facebook&logoColor=blue&link=https://www.facebook.com/groups/csga.ios)](https://www.facebook.com/groups/csga.ios)
+[![Github Badge](https://img.shields.io/badge/-Website-232323?style=flat-square&logo=Apple&logoColor=white&link=https://iapplec.com/)](https://iapplec.com/)
+[![Github Badge](https://img.shields.io/badge/-Youtube-232323?style=flat-square&logo=Youtube&logoColor=red&link=https://www.youtube.com/@iap-plec)](https://www.youtube.com/@iap-plec)
 [![Github Badge](https://img.shields.io/badge/-Discord-232323?style=flat-square&logo=Discord&logoColor=white&link=https://discord.gg/nAjmbWNKsV)](https://discord.gg/nAjmbWNKsV)
 ![](https://visitor-badge.glitch.me/badge?page_id=csga-ios.visitor-badge)  
 
 <!--
-**CSGA-iOS/CSGA-iOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**iAppleC/iAppleC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
